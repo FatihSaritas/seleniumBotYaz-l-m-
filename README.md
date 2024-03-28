@@ -4,4 +4,5 @@ Burada teams'e bağlanıp giriş yapma ve aktif kalmak için maos'u sağ sola ka
 teamsınfo.py adında dosya oluşturup email ve password bilgisini cekebilirsiniz.
 
 
+Bir Altındaki farklı proje
 
